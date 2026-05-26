@@ -1,12 +1,15 @@
-## Olá! Me chamo Fábio!
-<!--
-<div>
-  <a href="https://github.com/FabioCintra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioCintra&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  </a>
-</div>
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=Ola!+Meu+nome+é+Fábio;Eu+estudo+Ciências+da+Computação+na+UFAPE;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg) 
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FabioCintra&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### Sobre mim👨‍💻:
+Desenvolvedor FullStack em formação pela Universidade Federal do Agreste de Pernambuco, com foco em desenvolvimento backend, em busca do meu primeiro emprego na área de tecnologia.
+
+Sou uma pessoa proativa, comprometida e sempre em busca de evolução constante, com interesse em aprender novas tecnologias e boas práticas de desenvolvimento.
 
 ### Principais Habilidades:
 ![Static Badge](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF)
@@ -35,7 +38,7 @@
   </a>
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=footer"/>
 
 
 
