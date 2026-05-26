@@ -6,6 +6,8 @@
   </a>
 </div>
 -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FabioCintra&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Principais Habilidades:
 ![Static Badge](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=SpringBoot&logoColor=FFFFFF)
@@ -20,6 +22,19 @@
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=TailwindCSS&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
+
+---
+
+### Contatos:
+<div>
+  <a href="https://www.linkedin.com/in/fabiocintra/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"/></a>
+
+  <a href="mailto:fabiocintra.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+  </a>
+</div>
+
 
 
 
