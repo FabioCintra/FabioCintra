@@ -7,9 +7,9 @@
 ---
 
 ### Sobre mim👨‍💻:
-Desenvolvedor FullStack em formação pela Universidade Federal do Agreste de Pernambuco, com foco em desenvolvimento backend, em busca do meu primeiro emprego na área de tecnologia.
+Desenvolvedor Full Stack em formação pela Universidade Federal do Agreste de Pernambuco, com foco em backend, APIs REST e aplicações web, utilizando tecnologias como Java, Spring Boot, Python e React.
 
-Sou uma pessoa proativa, comprometida e sempre em busca de evolução constante, com interesse em aprender novas tecnologias e boas práticas de desenvolvimento.
+Tenho experiência prática em projetos com bancos de dados, agentes de IA e Docker, e busco minha primeira oportunidade na área de tecnologia para evoluir profissionalmente e aplicar meus conhecimentos em projetos reais.
 
 ### Principais Habilidades:
 ![Static Badge](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF)
