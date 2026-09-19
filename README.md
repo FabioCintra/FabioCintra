@@ -32,7 +32,7 @@ Sou uma pessoa proativa, comprometida e sempre em busca de evolução constante,
 
 ### Ferramentas & DevOps:
 ![Static Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
 
 ---
 
