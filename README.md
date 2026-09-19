@@ -14,6 +14,7 @@ Sou uma pessoa proativa, comprometida e sempre em busca de evolução constante,
 ### Principais Habilidades:
 ![Static Badge](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=SpringBoot&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=FFFFFF)
 
 ### Banco de Dados:
@@ -21,6 +22,9 @@ Sou uma pessoa proativa, comprometida e sempre em busca de evolução constante,
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&logoSize=200)
 
 ### Outras Habilidades:
+![Static Badge](https://img.shields.io/badge/LangGraph-Agents-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/LangChain-Framework-2F6B5F?style=for-the-badge&logo=langchain&logoColor=FFFFFF)
+
 ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=TailwindCSS&logoColor=FFFFFF)
